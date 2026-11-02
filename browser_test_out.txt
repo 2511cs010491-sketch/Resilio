@@ -1,0 +1,2 @@
+Browser path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Running: "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --headless --disable-gpu --window-size=1280,800 --screenshot=test_edge_shot.png http://localhost:3000
